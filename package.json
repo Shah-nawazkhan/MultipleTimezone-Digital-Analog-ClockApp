@@ -10,8 +10,11 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-native-picker/picker": "^2.7.5",
+    "luxon": "^3.4.4",
     "react": "18.2.0",
-    "react-native": "0.73.7"
+    "react-native": "0.73.7",
+    "react-native-clock-analog": "^0.0.3"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
